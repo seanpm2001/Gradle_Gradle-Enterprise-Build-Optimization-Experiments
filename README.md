@@ -5,6 +5,7 @@
 > - _[Common Custom User Data Gradle Plugin][ccud-gradle-plugin]_
 > - _[Common Custom User Data Maven Extension][ccud-maven-extension]_
 > - _[Android Cache Fix Gradle Plugin][android-cache-fix-plugin]_
+> - _[Wrapper Upgrade Gradle Plugin][wrapper-upgrade-gradle-plugin]_
 
 # Gradle Enterprise Build Optimization experiments
 
@@ -30,5 +31,6 @@ The Gradle Enterprise build optimization experiments are open-source software re
 [ccud-gradle-plugin]: https://github.com/gradle/common-custom-user-data-gradle-plugin
 [ccud-maven-extension]: https://github.com/gradle/common-custom-user-data-maven-extension
 [android-cache-fix-plugin]: https://github.com/gradle/android-cache-fix-gradle-plugin
+[wrapper-upgrade-gradle-plugin]: https://github.com/gradle/wrapper-upgrade-gradle-plugin
 [gradle-enterprise]: https://gradle.com/enterprise
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0.html
