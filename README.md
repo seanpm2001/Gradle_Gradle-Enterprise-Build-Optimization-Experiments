@@ -7,7 +7,7 @@
 > - _[Android Cache Fix Gradle Plugin][android-cache-fix-plugin]_
 > - _[Wrapper Upgrade Gradle Plugin][wrapper-upgrade-gradle-plugin]_
 
-# Gradle Enterprise Build Optimization experiments
+# Gradle Enterprise Build Optimization Experiments
 
 [![Revved up by Gradle Enterprise](https://img.shields.io/badge/Revved%20up%20by-Gradle%20Enterprise-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.solutions-team.gradle.com/scans)
 
