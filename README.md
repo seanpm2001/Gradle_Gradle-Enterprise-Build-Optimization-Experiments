@@ -2,8 +2,8 @@
 > - _[Gradle Enterprise Build Configuration Samples][ge-build-config-samples]_
 > - _[Gradle Enterprise Build Optimization Experiments][ge-build-optimization-experiments] (this repository)_
 > - _[Gradle Enterprise Build Validation Scripts][ge-build-validation-scripts]_
-> - _[Common Custom User Data Gradle Plugin][ccud-gradle-plugin]_
 > - _[Common Custom User Data Maven Extension][ccud-maven-extension]_
+> - _[Common Custom User Data Gradle Plugin][ccud-gradle-plugin]_
 > - _[Android Cache Fix Gradle Plugin][android-cache-fix-plugin]_
 > - _[Wrapper Upgrade Gradle Plugin][wrapper-upgrade-gradle-plugin]_
 
